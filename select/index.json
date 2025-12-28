@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "introduction",
+  "base_artist": "雨ニマケテモ",
+  "createdAt": "2025-12-28T05:37:06.931808Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Introduction",
+      "artist": "Fugees",
+      "has_synced": true,
+      "path": "select/01_Introduction_Fugees.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Introduction D'Allemagne",
+      "artist": "Deichkind",
+      "has_synced": false,
+      "path": "select/02_Introduction_D'Allemagne_Deichkind.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Doo Wa Ditty (feat. Introduction by Mo Ostin) (live)",
+      "artist": "Zapp",
+      "has_synced": false,
+      "path": "select/03_Doo_Wa_Ditty_(feat._Introduction_by_Mo_Ostin)_(live)_Zapp.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Doo Wa Ditty-Live (With Introduction by Mo Ostin)",
+      "artist": "Zapp",
+      "has_synced": false,
+      "path": "select/04_Doo_Wa_Ditty-Live_(With_Introduction_by_Mo_Ostin)_Zapp.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Introduction",
+      "artist": "Lil Poppa",
+      "has_synced": true,
+      "path": "select/05_Introduction_Lil_Poppa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Come Into The Garden (Introduction)",
+      "artist": "Nick Drake",
+      "has_synced": false,
+      "path": "select/06_Come_Into_The_Garden_(Introduction)_Nick_Drake.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Come in to the Garden (Introduction)",
+      "artist": "Nick Drake",
+      "has_synced": false,
+      "path": "select/07_Come_in_to_the_Garden_(Introduction)_Nick_Drake.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "An Introduction for Isabell",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/08_An_Introduction_for_Isabell_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Introduction",
+      "artist": "Vangelis",
+      "has_synced": false,
+      "path": "select/09_Introduction_Vangelis.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Un Autre Introduction",
+      "artist": "DJ Shadow",
+      "has_synced": false,
+      "path": "select/10_Un_Autre_Introduction_DJ_Shadow.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Introduction",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/11_Introduction_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Hundred Wishes (Introduction)",
+      "artist": "Loreena McKennitt",
+      "has_synced": true,
+      "path": "select/12_A_Hundred_Wishes_(Introduction)_Loreena_McKennitt.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Breaking of the Sword (Introduction)",
+      "artist": "Loreena McKennitt",
+      "has_synced": true,
+      "path": "select/13_Breaking_of_the_Sword_(Introduction)_Loreena_McKennitt.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "La Belle Dame Sans Merci (Introduction)",
+      "artist": "Loreena McKennitt",
+      "has_synced": true,
+      "path": "select/14_La_Belle_Dame_Sans_Merci_(Introduction)_Loreena_McKennitt.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Spanish Guitars and Night Plazas (Introduction)",
+      "artist": "Loreena McKennitt",
+      "has_synced": true,
+      "path": "select/15_Spanish_Guitars_and_Night_Plazas_(Introduction)_Loreena_McKennitt.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "introduction",
+      "artist": "雨ニマケテモ",
+      "has_synced": false,
+      "path": "select/pl_01_introduction_雨ニマケテモ.txt"
+    }
+  ]
+}
